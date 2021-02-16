@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Portfolio/static/js/main.789a2747.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.789a2747.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.eb6781d5.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.eb6781d5.js.map",
+    "static/js/2.a81b4a7c.chunk.js": "/Portfolio/static/js/2.a81b4a7c.chunk.js",
+    "static/js/2.a81b4a7c.chunk.js.map": "/Portfolio/static/js/2.a81b4a7c.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/js/2.a81b4a7c.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.a81b4a7c.chunk.js.LICENSE.txt",
+    "static/media/Rock-paper-scissor.b028073d.png": "/Portfolio/static/media/Rock-paper-scissor.b028073d.png",
+    "static/media/edie-homepage.4cfff23f.png": "/Portfolio/static/media/edie-homepage.4cfff23f.png",
+    "static/media/interior-consultant.d14fff79.png": "/Portfolio/static/media/interior-consultant.d14fff79.png",
+    "static/media/myteam.663cce53.png": "/Portfolio/static/media/myteam.663cce53.png",
+    "static/media/recipe-blog.5e259ba9.png": "/Portfolio/static/media/recipe-blog.5e259ba9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb6781d5.js",
+    "static/js/2.a81b4a7c.chunk.js",
+    "static/js/main.789a2747.chunk.js"
+  ]
+}
